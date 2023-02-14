@@ -1,6 +1,6 @@
-// V4
+// V5
 public class Class1 {
     public static void main(String[] args) {
-        System.out.println("Class1 v4 made in GitHub");
+        System.out.println("Class1 v5 made locally");
     }
 }
